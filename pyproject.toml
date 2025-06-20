@@ -1,0 +1,18 @@
+[project]
+name = "clas-simulations"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipython>=9.0.2",
+    "matplotlib>=3.10.1",
+    "muselsl>=2.3.1",
+    "numpy>=2.2.4",
+    "pip>=25.0.1",
+    "pyedflib>=0.1.40",
+    "pywavelets>=1.8.0",
+    "scipy>=1.15.2",
+    "tqdm>=4.67.1",
+]
