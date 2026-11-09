@@ -3,6 +3,7 @@
 ## Description
 
 This project is designed for simulating and evaluating the performance of real-time phase estimation algorithms.
+Patent pending in the United States and Canada. 
 
 ## Features
 
