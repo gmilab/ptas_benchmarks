@@ -1,0 +1,17 @@
+Research, Educational, and Not-for-Profit Software License
+
+Copyright (c) 2026. The Hospital for Sick Children (SickKids).
+All Rights Reserved.
+
+Permission to use, copy, and modify this software and its documentation (the "Software") for educational, research, and not-for-profit purposes, without fee and without a signed licensing agreement, is hereby granted, provided that the above copyright notice, this permission notice, and the disclaimer below appear in all copies, modifications, and distributions.
+
+Commercial use is not permitted under this license. Commercial use, including use in or for products, services, paid APIs, startups, internal business operations, monetized platforms, consulting deliverables, industry-sponsored research or other revenue-generating activities, requires prior written permission from SickKids.
+
+Any publication or presentation of results obtained using the Software shall cite the Software as follows: 10.1016/j.jneumeth.2025.110543. Licensees are encouraged to provide modifications and corrections to the SickKids Research Institute at 686 Bay St., Toronto, Ontario, Canada. By providing a modification, the licensee grants SickKids a non-exclusive, royalty-free, perpetual license to use, modify, and distribute it.
+For commercial licensing opportunities, contact the Industry Partnerships & Commercialization (IP&C) Office, Peter Gilgan Centre for Research and Learning, 686 Bay Street, Toronto, Ontario, Canada, ipc.requests@sickkids.ca.
+
+No trademark rights are granted under this license. This license does not grant permission to use the names, trademarks, service marks, or logos of SickKids, The Hospital for Sick Children, the authors, or any affiliated institution, except as required for reasonable attribution.
+
+IN NO EVENT SHALL SICKKIDS BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF SICKKIDS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+SICKKIDS SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE SOFTWARE AND ACCOMPANYING DOCUMENTATION, IF ANY, PROVIDED HEREUNDER IS PROVIDED "AS IS". SICKKIDS HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
